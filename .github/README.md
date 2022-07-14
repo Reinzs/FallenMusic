@@ -67,6 +67,11 @@ The easiest way to host this bot, Deploy on Heroku, Change the app country to Eu
 <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/AnonymousR1025/FallenMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
+##Deploy on railway
+
+<p align="center">
+<a href="https://railway.app/new/template?template=https://github.com/ridho17-ind/SkyzoMusicBot&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2CSESSION_NAME%2CSUDO_USERS%2COWNER_ID%2CDURATION_LIMIT%2CCHANNEL%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CASS_ID%2CGROUP&optionalEnvs=CHANNEL%2CGROUPCSUPPORT_CHANNEL%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CASSISTANT_PREFIX%2CMUSIC_BOT_NAME%2CSUPPORT_GROUP&optionalEnvs=SUPPORT_CHANNEL%2CSUPPORT_GROUP"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="252""/</a>
+
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
 
 ```sh
